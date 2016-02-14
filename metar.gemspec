@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.authors     = ["Robert Curth"]
   s.email       = ["robert.curth@techgenossen.de"]
-  s.homepage    = ""
-  s.summary     = ""
+  s.homepage    = "https://github.com/tech-genossen/metar"
+  s.summary     = "Yet another METAR Parser"
   s.description = ""
 
   s.files         = `git ls-files`.split("\n")
